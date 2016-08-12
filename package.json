@@ -1,0 +1,16 @@
+{
+  "name": "relise",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagocaiubi/relise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thiagocaiubi/relise/issues"
+  },
+  "homepage": "https://github.com/thiagocaiubi/relise#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-release": "^0.14.0"
+  }
+}
